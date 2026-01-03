@@ -1,5 +1,5 @@
 #  About Me:
-I'm Lavanya Dharmadhikari, a second year undergraduate in Data Science and Artificial Intellingence.<br><br>I'm currently learning and building ML projects, text based systems using TF- IDF, semantic search, etc., all while also practicing Data Structures and Algorithms<br><br>I enjoy working on projects where I understand the underlying concepts and data flow, rather than just using libraries as black boxes.<br>Learning every day.
+I'm Lavanya Dharmadhikari, a second year undergraduate in Data Science and Artificial Intellingence.<br><br>I'm currently learning and building ML projects, text based systems using TF- IDF, semantic search, etc., all while also practicing Data Structures and Algorithms<br><br>I enjoy working on projects where I understand the underlying concepts and data flow, rather than just using libraries as black boxes.<br><br>Learning every day.
 
 
 ## 🌐 Socials:
